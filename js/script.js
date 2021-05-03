@@ -35,7 +35,7 @@ $(document).ready(function () {
             //clear search result
             $(".search-results-container").html("");
             //link to API
-            let url = `http://www.omdbapi.com/?s=${input}&apikey=1557ab70&type=movie`;
+            let url = `https://www.omdbapi.com/?s=${input}&apikey=1557ab70&type=movie`;
             //send XMLHTTP request
             $.ajax({
                 url: url,
