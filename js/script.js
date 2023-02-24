@@ -1,11 +1,11 @@
 /*
-Copyright Milad Mobini May 2nd, 2021
+Copyright Cyrus Mobini May 2nd, 2021
 Shopify UX Developer Intern & Web Developer Intern Challenge - Fall 2021
 
-Link to Github code: https://github.com/milad2281/Shoppies
-Link to deployed website: https://milads-shoppies.netlify.app/
+Link to Github code: https://github.com/cyrus2281/Shoppies
+Link to deployed website: https://cyrus-shoppies.netlify.app/
 
-Github: https://github.com/milad2281
+Github: https://github.com/cyrus2281
 Website: https://www.ecocyrus.com/
 */
 
@@ -245,13 +245,13 @@ $(document).ready(function () {
 
 });
 /*
-Copyright Milad Mobini May 2nd, 2021
+Copyright Cyrus Mobini May 2nd, 2021
 Shopify UX Developer Intern & Web Developer Intern Challenge - Fall 2021
 
-Link to Github code: https://github.com/milad2281/Shoppies
-Link to deployed website: https://milads-shoppies.netlify.app/
+Link to Github code: https://github.com/cyrus2281/Shoppies
+Link to deployed website: https://cyrus-shoppies.netlify.app/
 
-Github: https://github.com/milad2281
+Github: https://github.com/cyrus2281
 Website: https://www.ecocyrus.com/
 
 */
